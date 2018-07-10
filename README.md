@@ -42,3 +42,4 @@ redux mock store
 less
 redux immutable state invariant
 redbox react
+jsdom
