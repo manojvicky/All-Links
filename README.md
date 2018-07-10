@@ -43,3 +43,4 @@ less
 redux immutable state invariant
 redbox react
 jsdom
+require-extension
